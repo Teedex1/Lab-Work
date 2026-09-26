@@ -1,4 +1,6 @@
-## watched a 1 hour history of linux, basically where it cme from, how it came by and the early struggles. 
+> **Note:** These are my learning notes from my current phase. I am keeping them as I wrote them so I can look back and see my progress.
+
+watched a 1 hour history of linux, basically where it cme from, how it came by and the early struggles(on 1.5x) lol. 
 
 ## Next: bash scripting and command lines for beginners.
 
