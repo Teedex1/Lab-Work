@@ -375,7 +375,7 @@ terraform {  required_providers {    aws = {      source  = "hashicorp/aws"     
 3. Pick a version number, usually "latest," from that same page.
 4. Close the braces.
 
- * I spent alot of time this week troubleshooting and verifying my AWS account, i got suspended for almost 72 hours, i sent mail after mail but yeah it was crazy. I got my account back yesterday OCT 2nd . *
+<h3> I spent alot of time this week troubleshooting and verifying my AWS account, i got suspended for almost 72 hours, i sent mail after mail but yeah it was crazy. I got my account back yesterday OCT 2nd . </h3>
 
  *SSH (SECURE SHELL) :*
 
