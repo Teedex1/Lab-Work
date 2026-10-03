@@ -245,11 +245,11 @@ Time to live (TTL) refers to the amount of time or “hops” that a packet is s
 
 <h2> Week 2 Learning - 28/sep</h2>
 
-### Computer Programming
+***Computer Programming***
 
 This section talks about computer langauges from Low level languges to high level language, the compiler and interpreted languages. 
 
-### Python
+***Python***
 
 Data types; 
 
@@ -271,7 +271,7 @@ b = x + 3 # b is assigned the value of var x + 3
 
 c = b #assigned var c the value of b
 
-### Practiced the parse Json
+***Practiced the parse Json***
 
 sample = {
 
@@ -289,11 +289,11 @@ for key, value in sample.items():
 
 print(f”{key}: {value}”)
 
-### Cloud Computing
+***Cloud Computing***
 
 explained and i picked aws. created account. 
 
-## Devops
+***Devops***
 
 Version control: Git is most purpular version control in the world and it tracks a file history, changes make and when they make them over the course of time. 
 
@@ -307,11 +307,11 @@ Git concept;
 6. Pull request: a pull request is away to propose changes from one branch to another. Like a request to review and edit.. as collaborations.
 7. Merge: merging is putting/ intergrating changes from one branch into another. like joining the branches where a chnage was made into the main project. 
 
-### *Infrastructure as code*
+***Infrastructure as code***
 
 IaC is a way of bulding, changing and managing an infrastructure with a confiq file making it faster and repeatable than clicking through the console or CLI. It allow you to keep a consistent and repeatable result by defining the config file and version it with git to keep it reusable and easy to reshare.
 
-### *CI/CD*
+***CI/CD***
 
 This stands for Continues integration and continues Deployment and it is the automatic process for developers that facilitates more frequent merging of code chnages back to a shared branch.
 CI this runs the any changes through a number of preset test and if passed, it send to CD which make it ready to go live, it can go live or wait for human approval. basically an automation to catch errors or bugs, if code is good, then CD makes it ready to go live. 
@@ -332,13 +332,13 @@ Monitoring: Teams must be able to view app and system data with relative ease.
 
 analysis … 
 
-### *Containers:*
+*Containers:*
 
 A container is what packages the app plus everyhting it needs to run (library, code, settings) inot one units so it run same way on any system it is launched. 
 
 Kubernetes: is a tools that manages alot of containers for you automatically, starting them, restarting them if they crash and spreading them across maultiple machines.
 
-### *Terraform:*
+*Terraform:*
 
 Terraform helps build what you want instead of manually clicking through the console to build.  
 
@@ -348,11 +348,11 @@ How it works:
 2. Plan: you run a command (terrafom plan), and Terraform previews what it’s about to do for confirmation
 3. Apply: (terraform apply), and terraform go and builds it on the server(aws)
 
-### *Terraform init command:*
+*Terraform init command:*
 
 This command initializes a working directory containing terraform configuration files. It is the first command to be ran after writing a new terraform configuration or cloning an existing configuration from version control. 
 
-### *Terraform apply:*
+*Terraform apply:*
 
 This excutes command the operation proposed in a terraform plan
 
@@ -375,9 +375,9 @@ terraform {  required_providers {    aws = {      source  = "hashicorp/aws"     
 3. Pick a version number, usually "latest," from that same page.
 4. Close the braces.
 
-## * I spent alot of time this week troubleshooting and verifying my AWS account, i got suspended for almost 72 hours, i sent mail after mail but yeah it was crazy. I got my account back yesterday * OCT 2nd *. 
+ * I spent alot of time this week troubleshooting and verifying my AWS account, i got suspended for almost 72 hours, i sent mail after mail but yeah it was crazy. I got my account back yesterday OCT 2nd . *
 
-### *SSH (SECURE SHELL) :*
+ *SSH (SECURE SHELL) :*
 
 This a a secure way of sending command on an unsecured network. It uses cryptography to authenticate and encrypt connections between the devices. 
 
@@ -408,7 +408,7 @@ What SSH is used for
 
 SSH port through PORT 22. 
 
-### *CLI BASICS:*
+*CLI BASICS:*
 
 ifconfig/ip:  
 
