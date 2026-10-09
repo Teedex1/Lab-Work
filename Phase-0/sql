@@ -1,0 +1,5 @@
+#!/bin/bash
+
+nmap -sT 192.168.64.2/24 -p 3306 >/dev/null -oG MySQLscan
+
+cat MySQLscan | grep open > MySQLscan2

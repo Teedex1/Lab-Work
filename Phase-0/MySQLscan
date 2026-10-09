@@ -1,0 +1,6 @@
+# Nmap 7.98 scan initiated Thu Oct  8 03:03:42 2026 as: nmap -sT -p 3306 -oG MySQLscan 192.168.64.2/24
+Host: 192.168.64.1 (_gateway)	Status: Up
+Host: 192.168.64.1 (_gateway)	Ports: 3306/closed/tcp//mysql///
+Host: 192.168.64.2 (devbox.local)	Status: Up
+Host: 192.168.64.2 (devbox.local)	Ports: 3306/closed/tcp//mysql///
+# Nmap done at Thu Oct  8 03:03:45 2026 -- 256 IP addresses (2 hosts up) scanned in 3.35 seconds

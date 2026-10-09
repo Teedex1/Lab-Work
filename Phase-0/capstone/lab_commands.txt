@@ -1,0 +1,767 @@
+verify 0 CTF
+verify 0
+verify list
+ls
+cd documents/
+ls
+cd projects/
+ls
+cd backup/
+ls
+cat secret_notes.txt 
+verify 0 CTF{BmsmJuDasxp}
+verify 0 CTF{example}
+exit
+verify progress
+ls
+cd ctf_challenges/
+ls
+cat encoded_flag.txt 
+verify 7 CTF{UTFSR2V6UmpNemd6V2pkTE1YcDRmUT09}v
+cd ../
+ls
+cd documents/
+ls
+cd projects/
+ls
+cd b
+cd backup/
+ls
+cat secret_notes.txt 
+verify 2 CTF{BmsmJuDasxp}
+ls
+cd ../
+ls
+cd ../
+ls
+cd ../
+ls
+cd ctf_challenges/
+ls
+cd fo
+ls
+cat follow_me 
+verify 1 CTF{follow_me}
+verify 3 CTF{follow_me}
+verify 4 CTF{follow_me}
+verify 5 CTF{follow_me}
+verify 6 CTF{follow_me}
+verify 7 CTF{follow_me}
+verify 8 CTF{follow_me}
+verify 9 CTF{follow_me}
+gunzip mystery_archive.tar.gz 
+verify 14 CTF{W8d84e7zfFs}
+verify 1 CTF{W8d84e7zfFs}
+verify 3 CTF{W8d84e7zfFs}
+verify 7 CTF{W8d84e7zfFs}
+verify 16 CTF{follow_me}
+verify 1 CTF{W8d84e7zfFs}
+verify 1 CTF{follow_me}
+ls
+cat encoded_flag.txt 
+verify 1 CTF{UTFSR2V6UmpNemd6V2pkTE1YcDRmUT09}
+cat follow_me 
+verify 1 CTF{follow_me}
+verify time
+verify 2 CTF{follow_me}
+verify 3 CTF{follow_me}
+verify 4 CTF{follow_me}
+verify 5 CTF{follow_me}
+verify 6 CTF{follow_me}
+verify 7 CTF{follow_me}
+verify 8 CTF{follow_me}
+verify 9 CTF{follow_me}
+verify 10 CTF{follow_me}
+verify 11 CTF{follow_me}
+verify 12 CTF{follow_me}
+verify 13 CTF{follow_me}
+verify 14 CTF{follow_me}
+verify 15 CTF{follow_me}
+verify 16 CTF{follow_me}
+verify 17 CTF{follow_me}
+verify 18 CTF{follow_me}
+clear
+verify 19 CTF{follow_me}
+ls
+cd ../
+ls
+cd documents/
+cd projects/
+ls
+cd backup/
+ls
+cat secret_notes.txt 
+cd ../.././/
+ls
+cd ../
+ls
+cd ctf_challenges/
+ls
+ls -l
+cat mystery_archive.tar 
+gzip mystery_archive.tar 
+ls
+verify time
+clear
+cd ../
+ls
+cd documents/
+ls
+cd projects/
+ls
+cd backup/
+ls
+cd ../../../../
+ls
+cd ctf_user/
+cd /
+ls
+cd opt/
+ls
+cat ctf_disk.img 
+clear
+ls
+cd uv
+ls
+cd python/
+ls
+cat cpython-3.13
+cd cpython-3.13
+cd cpython-3.13.16-linux-x86_64-gnu/
+ls
+cd bin/
+ls
+cd ../
+ls
+cd ../
+ls
+cd tools/
+ls
+cd linux-ctf-verify/
+ls
+cat CACHEDIR.TAG 
+8a477f597d28d172789f06886806bc55
+ls -l
+ls
+cat uv-receipt.toml 
+verify --help
+cd 
+cd /
+ls
+cd ~
+ls
+la -l
+ls
+cd ctf_challenges/
+ls
+ls -l
+cd /
+ls
+cd var/
+ls
+cd l
+cd lib/
+ls
+cd ctf/
+ls
+cd secrets/
+ls
+cat link2
+ls -l
+ls
+cd deep/
+ls
+ls -l
+ls
+cd ../
+ls
+cd vault/
+ls
+ls -l 
+verify 1 CTF{9p6kU3izegC}
+verify 2 CTF{9p6kU3izegC}
+verify 3 CTF{9p6kU3izegC}
+verify 4 CTF{9p6kU3izegC}
+verify 5 CTF{9p6kU3izegC}
+verify 6 CTF{9p6kU3izegC}
+verify 7 CTF{9p6kU3izegC}
+verify 8 CTF{9p6kU3izegC}
+verify 9 CTF{9p6kU3izegC}
+verify 10 CTF{9p6kU3izegC}
+verify 11 CTF{9p6kU3izegC}
+verify 12 CTF{9p6kU3izegC}
+verify 13 CTF{9p6kU3izegC}
+verify 14 CTF{9p6kU3izegC}
+verify 15 CTF{9p6kU3izegC}
+verify 16 CTF{9p6kU3izegC}
+varify time
+clear
+varify time
+verify --help
+verify prograss
+verify progress
+clear 
+verify time 
+ls -l
+cat link
+cat link5
+cd .././/
+ls
+ls -l
+cat link2_old 
+cd deep/
+ls
+cat link3_old 
+ls -l
+verify 1 CTF{decoy_trail}
+verify 2 CTF{decoy_trail}
+verify 3 CTF{decoy_trail}
+verify 4 CTF{decoy_trail}
+verify 5 CTF{decoy_trail}
+verify 6 CTF{decoy_trail}
+verify 7 CTF{decoy_trail}
+verify 8 CTF{decoy_trail}
+verify 9 CTF{decoy_trail}
+verify 10- CTF{decoy_trail}
+verify 10 CTF{decoy_trail}
+verify 11 CTF{decoy_trail}
+verify 12 CTF{decoy_trail}
+verify 13 CTF{decoy_trail}
+verify 14 CTF{decoy_trail}
+verify 15 CTF{decoy_trail}
+verify 17 CTF{decoy_trail}
+verify 18 CTF{decoy_trail}
+clear
+ls
+ls -l
+cd hidden/
+ls
+ls -l
+cd .
+ls -ls .
+sudo ls -l
+verify 18 CTF{9p6kU3izegC}
+verify 17 CTF{9p6kU3izegC}
+verify 16 CTF{9p6kU3izegC}
+ls
+cd ../
+ls
+ls -l
+cd ../
+ls
+
+verify progress
+ls
+cd ../
+ls
+cd decoy/
+ls
+sudo ls -l
+cd ../
+ls
+cd ../
+ls
+cd ctf/
+ls
+cd ../
+ls
+cd log
+ls
+ls -l
+cat README 
+journalctl -r -n 100
+ls
+sudo -l 
+sudo ls -la /var/lib/ctf/secrets/deep/hidden
+sudo ls -la /var/lib/ctf/decoy
+journalctl -r -n 50 --no-pager
+sudo ls -la /var/lib/ctf/secrets/deep/hidden
+verify 1 CTF{9p6kU3izegC}
+verify 3 CTF{9p6kU3izegC}
+verify 4 CTF{9p6kU3izegC}
+verify 5 CTF{9p6kU3izegC}
+verify 6 CTF{9p6kU3izegC}
+verify 7 CTF{9p6kU3izegC}
+verify 8 CTF{9p6kU3izegC}
+verify 9 CTF{9p6kU3izegC}
+verify 10 CTF{9p6kU3izegC}
+verify 12 CTF{9p6kU3izegC}
+verify 13 CTF{9p6kU3izegC}
+verify 14 CTF{9p6kU3izegC}
+verify 15 CTF{9p6kU3izegC}
+verify 16 CTF{9p6kU3izegC}
+verify 17 CTF{9p6kU3izegC}
+verify 2 CTF{9p6kU3izegC}
+cleE
+clear
+cd 
+ls
+ls -l
+sudo ls -l
+cd /
+ls -l
+ls
+cd lost+found/
+sudo ls -l lost+found/
+ls 
+cd sys/
+ls
+cd block/
+ls
+ls -l
+cd ../
+ls
+cd bus/
+ls
+ls -l
+clear
+ls
+ls -l 
+cd ../
+ls
+ls -l 
+cd power/
+ls
+ls -l
+clear
+ls
+cat disk
+cat state
+cat resume
+clear
+cd ../
+ls
+cd ../
+ls
+cd dev
+ls
+ls -l
+clear
+ls
+cd ../
+ls
+cd etc/
+ls
+cat passwd
+varify 1 CTF{nz8C27G7kD5}
+verify 1 CTF{nz8C27G7kD5}
+verify 2 CTF{nz8C27G7kD5}
+verify 3 CTF{nz8C27G7kD5}
+verify 4 CTF{nz8C27G7kD5}
+verify progress
+clear
+ls
+cat passwd-
+clear
+ls
+cd ctf/
+ls
+sudo ls -l
+sudo ls -l verification_secret
+la
+sudo la
+sudo cat /etc/verification_secret
+sudo cat /etc/ctf/flag*
+clear
+ls
+sudo ls -l 
+sudo head -n +1 /etc/ctf/*
+sudo cat /etc/ctf/verification_secret
+sudo ls -la /etc/ctf
+sudo tail -n +1 /etc/ctf/*
+sudo cat /etc/ctf/flag*
+sudo cat /etc/ctf/verification_secret
+sudo cat /etc/ctf/flag_14.env
+sudo cat /etc/ctf/flag_hashes
+verify 1 CTF_SECRET_FLAG=CTF{j9zc8rdhZN3}
+verify 1 CTF{j9zc8rdhZN3}
+verify 2 CTF{j9zc8rdhZN3}
+verify 3 CTF{j9zc8rdhZN3}
+verify 4 CTF{j9zc8rdhZN3}
+verify 5 CTF{j9zc8rdhZN3}
+verify 6 CTF{j9zc8rdhZN3}
+verify 7 CTF{j9zc8rdhZN3}
+verify 8 CTF{j9zc8rdhZN3}
+verify 9 CTF{j9zc8rdhZN3}
+verify 10 CTF{j9zc8rdhZN3}
+verify 11 CTF{j9zc8rdhZN3}
+verify 12 CTF{j9zc8rdhZN3}
+verify 13 CTF{j9zc8rdhZN3}
+verify 14 CTF{j9zc8rdhZN3}
+clear
+ls
+cd ../
+ls
+ls -l 
+cd ufw/
+ls
+cat *
+cd ../
+ls
+cd cron.d
+ls
+cat *
+cd ../
+cd cron.daily/
+ls
+cat *
+ls
+./apport 
+./apt-compat 
+./dpkg 
+./logrotate 
+./man-db 
+./sysstat 
+ls
+cd ../
+cd ctf/
+ls
+sudo ls -l
+sudo cat /etc/ctf/flag*
+sudo cat /etc/ctf/flag *
+sudo cat /etc/ctf/*
+sudo cat /etc/ctf/flag_10
+sudo cat /etc/ctf/flag_13
+sudo cat /etc/ctf/flag_14.env
+sudo cat /etc/ctf/flag_6
+sudo cat /etc/ctf/flag_8
+sudo cat /etc/ctf/flag_hashes
+sudo cat /etc/ctf/instance_id
+sudo cat /etc/ctf/verification_secret
+verify 1 CTF{W8d84e7zfFs}
+verify 2 CTF{W8d84e7zfFs}
+verify 3 CTF{W8d84e7zfFs}
+verify 4 CTF{W8d84e7zfFs}
+verify 5 CTF{W8d84e7zfFs}
+verify 6 CTF{W8d84e7zfFs}
+verify 7 CTF{W8d84e7zfFs}
+verify 8 CTF{W8d84e7zfFs}
+verify 9 CTF{W8d84e7zfFs}
+verify 10 CTF{W8d84e7zfFs}
+verify 1 CTF{UHf798g5GuG}
+verify 2 CTF{UHf798g5GuG}
+verify 3 CTF{UHf798g5GuG}
+verify 4 CTF{UHf798g5GuG}
+verify 5 CTF{UHf798g5GuG}
+verify 6 CTF{UHf798g5GuG}
+verify 7 CTF{UHf798g5GuG}
+verify 8 CTF{UHf798g5GuG}
+verify 9 CTF{UHf798g5GuG}
+verify 11 CTF{UHf798g5GuG}
+verify 12 CTF{UHf798g5GuG}
+verify 13 CTF{UHf798g5GuG}
+verify 6 CTF{Jj1ddT4mtNb}
+verify 8 CTF{HnYnZdnoMY1}
+verify time
+verify ls
+verify progress
+ls
+cd ../
+ls
+cd nginx/
+ls
+cat *
+clear
+ls
+cat nginx.conf 
+ls
+cd conf.d/
+ls
+ls -l
+cd ../
+ls
+cat group
+cat group-
+clear
+ls
+cd credstore
+cat credstore
+sudo cat /etc/credstore
+sudo cd etc/credstore
+ls
+cd ../
+ls
+clear
+ls
+cat bin
+cd bin
+ls
+cat gpasswd 
+clear
+ls
+clear
+varify
+verify
+verify list 
+cd ~
+ls 
+cd ctf_challenges/
+ls
+ls -l
+gunzip mystery_archive.tar.gz 
+verify 1 CTF{W8d84e7zfFs}
+verify 2 CTF{W8d84e7zfFs}
+verify 3 CTF{W8d84e7zfFs}
+verify 4 CTF{W8d84e7zfFs}
+verify 5 CTF{W8d84e7zfFs}
+verify 6 CTF{W8d84e7zfFs}
+verify 7 CTF{W8d84e7zfFs}
+verify 8 CTF{W8d84e7zfFs}
+verify 9 CTF{W8d84e7zfFs}
+verify 11 CTF{W8d84e7zfFs}
+verify 12 CTF{W8d84e7zfFs}
+verify 15 CTF{W8d84e7zfFs}
+verify 16 CTF{W8d84e7zfFs}
+verify 17 CTF{W8d84e7zfFs}
+verify 18 CTF{W8d84e7zfFs}
+verify 19 CTF{W8d84e7zfFs}
+ls -l
+cat encoded_flag.txt 
+ls -a
+sudo cat .hidden_flag
+verify 1 CTF{mTNCUvgEk3T}
+verify 3 CTF{W8d84e7zfFs}
+cd ../ /../var/log
+cd 
+cd /
+cd var/
+cd log/
+ls
+sudo cat *
+sud grep -rnI "CTF" / 2>/dev/null
+ls
+sudo env | grep -i "CTF"
+cat btmp 
+sudo cat btmp
+sudo cat alternatives.log 
+clear
+ls
+sudo amazon
+cd amazon/
+ls
+clear
+ls
+sudo cat amazon/
+sudo cd amazon/
+sudo ls -la
+clear
+sudo cat *
+sudo grep -rnI "CTF{" /etc /var /opt /home /tmp 2>/dev/null
+clear
+verify 3 CTF{nz8C27G7kD5}
+verify 4 CTF{nz8C27G7kD5}
+verify 5 CTF{nz8C27G7kD5}
+verify 6 CTF{nz8C27G7kD5}
+verify 7 CTF{nz8C27G7kD5}
+verify 7 {j9zc8rdhZN3}
+verify 3 {j9zc8rdhZN3}
+verify 4 {j9zc8rdhZN3}
+verify 5 {j9zc8rdhZN3}
+verify 6 {j9zc8rdhZN3}
+verify 7 {j9zc8rdhZN3}
+verify 8 {j9zc8rdhZN3}
+verify 9 {j9zc8rdhZN3}
+verify 10 {j9zc8rdhZN3}
+verify 11 {j9zc8rdhZN3}
+verify 12 {j9zc8rdhZN3}
+verify 13 {j9zc8rdhZN3}
+verify 14 {j9zc8rdhZN3}
+verify 15 {j9zc8rdhZN3}
+verify 16 {j9zc8rdhZN3}
+verify 17 {j9zc8rdhZN3}
+verify 19 {j9zc8rdhZN3}
+verify 18 {j9zc8rdhZN3}
+verify 1 {j9zc8rdhZN3}
+verify 2 {j9zc8rdhZN3}
+verify 3 CTF{ShpgtofgcrK}
+verify 5 CTF{ShpgtofgcrK}
+verify 6 CTF{ShpgtofgcrK}
+verify 7 CTF{ShpgtofgcrK}
+verify 8 CTF{ShpgtofgcrK}
+verify 9 CTF{ShpgtofgcrK}
+verify 3 UHf798g5GuG}
+verify 5 UHf798g5GuG}
+verify 7 UHf798g5GuG}
+verify 3 {UHf798g5GuG}
+verify 5 {UHf798g5GuG}
+verify 7 {UHf798g5GuG}
+verify 11 {UHf798g5GuG}
+verify 12 {UHf798g5GuG}
+verify 14 {UHf798g5GuG}
+verify 15 {UHf798g5GuG}
+verify 18 {UHf798g5GuG}
+clear
+verify 3 CTF{bgygPWQfgBV}
+verify 5 CTF{FRLjPe4fyFt}
+verify 7 CTF{FRLjPe4fyFt}
+verify 11 CTF{FRLjPe4fyFt}
+verify 5 CTF{FZ1AhAYQtvm}
+verify 7 CTF{BmsmJuDasxp}
+verify 12 CTF{BmsmJuDasxp}
+verify 14 CTF{BmsmJuDasxp}
+verify 15 CTF{BmsmJuDasxp}
+verify 18 CTF{BmsmJuDasxp}
+verify 18 CTF{ngs47oN77so}
+verify 15 CTF{ngs47oN77so}
+verify 14 CTF{ngs47oN77so}
+verify 12 CTF{ngs47oN77so}
+verify 7 CTF{ngs47oN77so}
+verify 7 CTF{W8d84e7zfFs}
+verify 12 CTF{W8d84e7zfFs}
+verify 15 CTF{W8d84e7zfFs}
+verify 18 CTF{W8d84e7zfFs}
+clear
+verify list
+verify 17 CTF{W8d84e7zfFs}
+verify 17 CTF{ngs47oN77so}
+clear
+cd 
+sudo grep -rnI "CTF{" /etc /var /opt /home /tmp 2>/dev/null
+clear
+cd
+ls
+cd ctf_challenges/
+cd ../
+ls -la
+sudo cat ls -la
+sudo cat ls -l
+sudo cat ls 
+sudo cat *
+ls
+cd ctf_challenges/
+ls -la
+cat encoded_flag.txt 
+cat mystery_archive.tar 
+ls mystery_archive.tar 
+sudo cat mystery_archive.tar 
+gzip mystery_archive.tar 
+verify 15 CTF{W8d84e7zfFs} 
+verify 15 CTF{W8d84e7zfFs}
+verify 12 CTF{W8d84e7zfFs}
+verify 18 CTF{W8d84e7zfFs}
+ls
+ls -a
+cd ../
+ls
+cd /
+ls
+cd var/
+ls
+cd lo
+cd log/
+ls
+ls -l
+echo "UTFSR2V6UmpNemd6V2pkTE1YcDRmUT09" | base64 -d | base64 -d
+verify 7 CTF{4c383Z7K1zx}
+ls
+cd ../
+clear
+ls
+cd lo
+cd log
+ls
+cd ../../
+ls
+cd dev/
+ls
+cd ../
+clear
+ls
+cd etc/
+ls
+cd ../
+clear
+ls
+cd etc/
+ls
+cd ../
+ls
+sudo tcpdump -i lo -A -s 0 icmp
+verify 12 CTF{dAKujwbvq2H}
+clear
+pwd
+sudo find /var/lib/ctf /home /tmp /opt -type f \( -name "*.zip" -o -name "*.tar*" -o -name "*.gz" -o -name "*.7z" \) 2>/dev/null
+ls
+cd opt/
+ls
+cd uv/
+ls
+cd python/
+ls
+cd cpython-3.13.16-linux-x86_64-gnu/
+ls
+cd lib/
+ls
+cd tcl9
+ls
+cd 9.0/
+ls
+cd ../../
+ls
+cd tcl9.0/
+ls
+cd cookiejar0.2/
+ls
+gunzip public_suffix_list.dat.gz 
+sudo gunzip public_suffix_list.dat.gz 
+ls
+cat public_suffix_list.dat 
+ls
+gzip public_suffix_list.dat 
+ls
+sudo gzip public_suffix_list.dat 
+ls
+cd ../../../../
+ls
+sudo find /var/lib/ctf /home /tmp /opt -type f \( -name "*.zip" -o -name "*.tar*" -o -name "*.gz" -o -name "*.7z" \) 2>/dev/null
+cd ../
+cd linux-ctfs-
+cd linux-ctfs-download/
+clear
+ls
+gunzip linux-ctfs-setup.tar.gz 
+sudo gunzip linux-ctfs-setup.tar.gz 
+cat linux-ctfs-setup.tar
+ls
+sudo gzip linux-ctfs-setup.tar
+ls
+cd ../
+cd ..
+ls
+cd home/
+ls
+cd ctf_user/
+ls
+cd ctf_challenges/
+ls
+cat mystery_archive.tar.gz 
+gunzip mystery_archive.tar.gz 
+tar -xvf mystery_archive.tar
+while 7z x -y * 2>/dev/null; do rm -f *.zip *.tar *.gz *.bz2 *.xz *.7z *.rar 2>/dev/null; done
+grep -rnI "CTF{" .
+tar -xvf middle.tar.bz2
+tar -xvf inner.tar.xz
+cat flag.txt
+verify 15 CTF{mTNCUvgEk3T}
+verify 15 CTF{V43h2768NDn}
+ls
+cd ..
+ls
+ls -la
+sudo find /home /var/lib/ctf /opt /tmp -type f \( -name "*.img" -o -name "*.dd" -o -name "*.raw" -o -name "*disk*" \) 2>/dev/null
+cd /
+ls 
+cd opt/
+ls
+cat ctf_disk.img 
+clear
+ls
+file /opt/ctf_disk.img 
+verify 18 CTF{QtQhG6u8wLT}
+cd ..
+ls
+cd ~
+ls
+cd ctf_challenges/
+ls
+wget http://0.0.0.0:8000/MySQLscan

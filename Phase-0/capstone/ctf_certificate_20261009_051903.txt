@@ -1,0 +1,27 @@
+============================================================
+         LEARN TO CLOUD - CTF COMPLETION CERTIFICATE
+============================================================
+
+  This certifies that GitHub user
+
+              https://github.com/Teedex1
+
+  has successfully completed all 18 Linux CTF challenges
+
+  Completion Time: 14:21
+  Date: 2026-10-09
+
+  Challenges Completed:
+   * The Hidden File            * The Hidden Service
+   * The Secret File            * The Encoded Secret
+   * The Odd Log Entry          * SSH Key Authentication
+   * The User Detective         * DNS Inspection
+   * The Permissive File        * Remote Upload
+   * Web Configuration          * Network Traffic Analysis
+   * Cron Job Hunter            * Process Environment
+   * Archive Archaeologist      * Symbolic Sleuth
+   * History Mystery            * Disk Detective
+
+============================================================
+                    Congratulations!
+============================================================

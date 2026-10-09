@@ -1,0 +1,11 @@
+#!/bin/bash
+
+echo "What is your name"
+
+read name
+
+echo "What chapter are you"
+
+read chapter
+
+echo "Welcome $name to chapter $chapter"
